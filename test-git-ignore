@@ -1,2 +1,2 @@
-print('test git ignore')
-print('new data')
+print('test git ignore;')
+print('new data;')
